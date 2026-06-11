@@ -1,0 +1,9 @@
+{
+  "name": "com.mister91jiao.conver-tuanjie-to-unity-tool",
+  "version": "1.0.0",
+  "displayName": "Conver Tuanjie To Unity Tool",
+  "description": "用于将团结工程迁移回 Unity 工程",
+  "author": {
+    "name": "mister91jiao"
+  }
+}
