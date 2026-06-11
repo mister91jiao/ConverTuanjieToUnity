@@ -1,5 +1,4 @@
-# Conver Tuanjie To Unity Tool
-# 转换团结引擎工程到Unity
+# 转换团结引擎工程到Unity - Conver Tuanjie To Unity Tool
 
 用于辅助把团结工程迁移回 Unity 工程的 Unity Editor Package。工具应先安装到团结工程，并在团结编辑器内执行；转换完成后再使用 Unity 打开工程。
 
